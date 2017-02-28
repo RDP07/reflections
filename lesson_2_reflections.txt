@@ -11,7 +11,7 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-
+	You can run a git diff when you put a file into the staging area to compare it to the working directory and most recent commit to make sure that you are only making commits with logical changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
