@@ -20,7 +20,7 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-	
+	Diagrams help to easily show the "map" of git branches. They make it very easy to identify parent branches and wether branches that have been created will be accessible in the git log.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
