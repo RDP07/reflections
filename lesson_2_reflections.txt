@@ -30,4 +30,8 @@ the diagram the way we do?
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
+	Auto merges with git provide an easy way to merge two commits without having to go through and compare everyline of code. Utilizing git also will notify you if there are any confilicts within the two merges that may result in the final merged file not being able to compile or run correctly. 
+
+	As for manual merges, I dont really see much of a benefit. It seems like it would be a lot more work and a lot more room for human error.
+
 	
