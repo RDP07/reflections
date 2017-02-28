@@ -25,7 +25,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-	
+	When you merge two branches the new result becomes the new master branch. Since it takes two commits from two separate branches, and creates one new commit we represent that on the graph and linked to both the previous branches. Because it is technically a "child" of both.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
