@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a separate branch is very benficial when working with other on a project. Making changes in a separate branch, then initiating a pull request allows others working on the project to review the code and make sure there are no bugs or mistakes. This also allows multiple edits to be made by multiple coders and then merged all into the master with a minimal amount of bugs or mistakes. As Git helps identify the conflicts. I honestly dont see a benefit of making changes to the master directly unless maybe because you are working a project solely on your own.
